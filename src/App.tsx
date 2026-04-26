@@ -365,11 +365,11 @@ export default function App() {
           </div>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-amber-500" />
-            <span className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">ECOHOME 2: SỔ HỒNG 2028</span>
+            <span className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">ECOHOME 2: SỔ HỒNG SANG TÊN</span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-blue-500" />
-            <span className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">ECOHOME 3: SỔ HỒNG 2026</span>
+            <span className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">ECOHOME 3: SỔ HỒNG TÙY CĂN</span>
           </div>
         </div>
         <div className="text-[11px] text-slate-400 font-medium">
