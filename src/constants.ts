@@ -41,13 +41,15 @@ export const ECOHOME_DATA: ProjectSection[] = [
       "Bãi đá sông Hồng: 20 phút di chuyển"
     ],
     listings: [
-      { id: 1, title: "Tòa E4", details: "56m² 2PN 1VS, full nội thất, tầng trung, BC Tây, sổ hồng sang tên ngay, nhà đang ở - xem sau 20h", price: "3.6x tỷ" },
-      { id: 2, title: "Tòa E3B", details: "56m² 2PN 1VS, full nội thất, BC Bắc, sổ hồng sang tên ngay, nợ bank 2 tỷ hỗ trợ rút sổ", price: "3.6x tỷ" },
-      { id: 3, title: "Tòa E3A", details: "64.5m² 2PN 2VS, tầng trung, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "4.2x tỷ" },
-      { id: 4, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, full nội thất, BC Nam, sổ hồng", price: "3.6x tỷ" },
-      { id: 5, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, nội thất cơ bản, BC…, sổ hồng sang tên ngay", price: "3.6x tỷ" },
-      { id: 6, title: "Tòa E3B", details: "56m² 2PN 1VS, view nội khu, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "3.4x tỷ" },
-      { id: 7, title: "Tòa E1B", details: "64.5m² 2PN 2VS, view nội khu, full nội thất, BC Nam, sổ hồng sang tên ngay", price: "4.4x tỷ" }
+      { id: 1, title: "Tòa E4", details: "56m² 2PN 1VS, full nội thất, tầng trung, BC Tây, sổ hồng sang tên ngay, nhà đang ở - xem sau 20h", price: "3.8x tỷ" },
+      { id: 2, title: "Tòa E3B", details: "56m² 2PN 1VS, full nội thất, BC Bắc, sổ hồng sang tên ngay, nợ bank 2 tỷ hỗ trợ rút sổ", price: "3.8x tỷ" },
+      { id: 3, title: "Tòa E3A", details: "64.5m² 2PN 2VS, tầng trung, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "4.5x tỷ" },
+      { id: 4, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, full nội thất, BC Nam, sổ hồng", price: "3.7x tỷ (Đã bán)" },
+      { id: 5, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, nội thất cơ bản, BC…, sổ hồng sang tên ngay", price: "3.9x tỷ" },
+      { id: 6, title: "Tòa E3B", details: "56m² 2PN 1VS, view nội khu, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "3.7x tỷ" },
+      { id: 7, title: "Tòa E1B", details: "64.5m² 2PN 2VS, view nội khu, full nội thất, BC Nam, sổ hồng sang tên ngay", price: "4.3x tỷ" },
+      { id: 8, title: "Tòa E4", details: "36m² 1PN 1VS, căn thương mại, full nội thất, BC Nam, sổ hồng sang tên ngay", price: "2.8x tỷ" },
+      { id: 9, title: "Tòa E3B", details: "70m² 2PN 2VS, căn góc tầng trung, 3 điều hòa 1 nóng lạnh, Đông Nam, sổ hồng sang tên ngay", price: "4.5x tỷ" }
     ],
     vtourUrl: "https://files.dandautu.vn/vtours/363/eco-home-1.html?v=1682146911",
     mapUrl: "https://maps.google.com/maps?q=21.08632469177246, 105.78231811523438&t=&z=15&ie=UTF8&iwloc=&output=embed"
@@ -63,8 +65,9 @@ export const ECOHOME_DATA: ProjectSection[] = [
       south: "Giáp dự án xây dựng Bệnh viện chuyên khoa mắt Sài Gòn - Hà Nội."
     },
     listings: [
-      { id: 1, title: "Ecohome 2 C1A", details: "36m² 1PN 1VS, full nội thất, view thoáng, sổ hồng 2028 sang tên", price: "2.8x tỷ" },
-      { id: 2, title: "Ecohome 2 C1", details: "36m² 1PN 1VS, view nội khu, nội thất cơ bản, sổ hồng", price: "2.8x tỷ (có thương lượng)" }
+      { id: 1, title: "Ecohome 2 C1A", details: "36m² 1PN 1VS, full nội thất, view thoáng, sổ hồng 2028 sang tên", price: "2.9x tỷ" },
+      { id: 1, title: "Ecohome 2 C1A", details: "36m² 1PN 1VS, full nội thất, view thoáng, sổ hồng sang tên", price: "2.8x tỷ (đã bán)" },
+      { id: 2, title: "Ecohome 2 C1", details: "36m² 1PN 1VS, view nội khu, nội thất cơ bản, sổ hồng", price: "2.9x tỷ (thương lượng)" }
     ],
     vtourUrl: "https://files.dandautu.vn/vtours/364/eco-home-2.html?v=1682151258",
     mapUrl: "https://maps.google.com/maps?q=21.083669, 105.784468&t=&z=15&ie=UTF8&iwloc=&output=embed"
