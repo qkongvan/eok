@@ -46,6 +46,7 @@ export const ECOHOME_DATA: ProjectSection[] = [
       { id: 3, title: "Tòa E3A", details: "64.5m² 2PN 2VS, tầng trung, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "4.5x tỷ" },
       { id: 4, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, full nội thất, BC Nam, sổ hồng", price: "3.7x tỷ (Đã bán)" },
       { id: 5, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng trung, nội thất cơ bản, BC…, sổ hồng sang tên ngay", price: "3.9x tỷ" },
+      { id: 10, title: "Tòa E3B", details: "56m² 2PN 1VS, tầng thấp, nội thất gắn tường, BC tây, sổ hồng sang tên", price: "3.59x tỷ" },
       { id: 6, title: "Tòa E3B", details: "56m² 2PN 1VS, view nội khu, full nội thất, BC Bắc, sổ hồng sang tên ngay", price: "3.7x tỷ" },
       { id: 7, title: "Tòa E1B", details: "64.5m² 2PN 2VS, view nội khu, full nội thất, BC Nam, sổ hồng sang tên ngay", price: "4.3x tỷ" },
       { id: 8, title: "Tòa E4", details: "36m² 1PN 1VS, căn thương mại, full nội thất, BC Nam, sổ hồng sang tên ngay", price: "2.8x tỷ" },
